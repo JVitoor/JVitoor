@@ -1,4 +1,4 @@
-### Hello, World! Eu sou o João Vitor ^^
+### Hello, World! Eu sou o João Vitor 😊
 
 <div align="center">
   <a href="https://github.com/JVitoor">
